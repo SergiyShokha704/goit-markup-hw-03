@@ -1,0 +1,39 @@
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+}
+.logo .accent {
+  color: #2e2f42;
+}
+
+.contacts a {
+  font-family: var(--font-family), sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.contacts a:hover,
+.contacts a:focus {
+  color: #404bbf;
+}
+
+.nav a {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.nav a:hover,
+.nav a:focus {
+  color: #404bbf;
+}
