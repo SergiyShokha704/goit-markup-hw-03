@@ -35,3 +35,17 @@
   text-align: center;
   color: #434455;
 }
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-list {
+  display: flex;
+  gap: 24px;
+}
+
+.team-card {
+  width: calc((100% - 72px) / 4);
+  background-color: #ffffff;
+}

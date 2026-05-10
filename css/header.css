@@ -37,3 +37,26 @@
 .nav a:focus {
   color: #404bbf;
 }
+
+.header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav {
+  margin-right: auto;
+}
+
+.nav ul {
+  display: flex;
+  gap: 40px;
+}
+
+.contacts {
+  display: flex;
+  gap: 40px;
+}

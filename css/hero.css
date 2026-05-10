@@ -28,3 +28,19 @@
 .hero-button:focus {
   background-color: #404bbf;
 }
+
+.hero {
+  background-color: #2e2f42;
+  padding: 188px 0;
+}
+
+.hero-title {
+  max-width: 496px;
+  margin: 0 auto 48px;
+  text-align: center;
+}
+
+.hero-button {
+  display: block;
+  margin: 0 auto;
+}
