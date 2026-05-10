@@ -41,3 +41,15 @@
   border: 1px solid #e7e9fc;
   border-top: none;
 }
+
+.portfolio-item-title {
+  margin-bottom: 8px;
+}
+
+.portfolio-title {
+  margin-bottom: 72px;
+}
+
+.portfolio img {
+  display: block;
+}
