@@ -27,3 +27,16 @@
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+
+.footer {
+  padding: 100px 0;
+}
+
+.footer .logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.footer p {
+  max-width: 264px;
+}
